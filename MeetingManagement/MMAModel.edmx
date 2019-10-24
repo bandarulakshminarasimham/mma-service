@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="MeetingManagementDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Attendees">
+          <Key>
+            <PropertyRef Name="AttendeeId" />
+          </Key>
+          <Property Name="AttendeeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="varchar" MaxLength="200" Nullable="false" />
+          <Property Name="Status" Type="bit" />
+          <Property Name="ModifiedBy" Type="int" />
+          <Property Name="ModifiedDate" Type="datetime" />
+          <Property Name="CreatedBy" Type="int" />
+          <Property Name="CreatedDate" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Meeting">
+          <Key>
+            <PropertyRef Name="MeetingId" />
+          </Key>
+          <Property Name="MeetingId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Subject" Type="varchar" MaxLength="500" Nullable="false" />
+          <Property Name="Agenda" Type="varchar(max)" Nullable="false" />
+          <Property Name="MDateTime" Type="datetime" Nullable="false" />
+          <Property Name="Status" Type="bit" />
+          <Property Name="ModifiedBy" Type="int" />
+          <Property Name="ModifiedDate" Type="datetime" />
+          <Property Name="CreatedBy" Type="int" />
+          <Property Name="CreatedDate" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Meeting_Attendees_Map">
+          <Key>
+            <PropertyRef Name="MapId" />
+          </Key>
+          <Property Name="MapId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MeetingId" Type="int" />
+          <Property Name="AttendeeId" Type="int" />
+          <Property Name="Status" Type="bit" />
+        </EntityType>
+        <Association Name="FK_Meeting_Attendees_Map_Attendees">
+          <End Role="Attendees" Type="Self.Attendees" Multiplicity="0..1" />
+          <End Role="Meeting_Attendees_Map" Type="Self.Meeting_Attendees_Map" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Attendees">
+              <PropertyRef Name="AttendeeId" />
+            </Principal>
+            <Dependent Role="Meeting_Attendees_Map">
+              <PropertyRef Name="AttendeeId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Meeting_Attendees_Map_Meeting">
+          <End Role="Meeting" Type="Self.Meeting" Multiplicity="0..1" />
+          <End Role="Meeting_Attendees_Map" Type="Self.Meeting_Attendees_Map" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Meeting">
+              <PropertyRef Name="MeetingId" />
+            </Principal>
+            <Dependent Role="Meeting_Attendees_Map">
+              <PropertyRef Name="MeetingId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="MeetingManagementDBModelStoreContainer">
+          <EntitySet Name="Attendees" EntityType="Self.Attendees" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Meeting" EntityType="Self.Meeting" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Meeting_Attendees_Map" EntityType="Self.Meeting_Attendees_Map" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Meeting_Attendees_Map_Attendees" Association="Self.FK_Meeting_Attendees_Map_Attendees">
+            <End Role="Attendees" EntitySet="Attendees" />
+            <End Role="Meeting_Attendees_Map" EntitySet="Meeting_Attendees_Map" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Meeting_Attendees_Map_Meeting" Association="Self.FK_Meeting_Attendees_Map_Meeting">
+            <End Role="Meeting" EntitySet="Meeting" />
+            <End Role="Meeting_Attendees_Map" EntitySet="Meeting_Attendees_Map" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MeetingManagementDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Attendee">
+          <Key>
+            <PropertyRef Name="AttendeeId" />
+          </Key>
+          <Property Name="AttendeeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Status" Type="Boolean" />
+          <Property Name="ModifiedBy" Type="Int32" />
+          <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+          <Property Name="CreatedBy" Type="Int32" />
+          <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Meeting_Attendees_Map" Relationship="Self.FK_Meeting_Attendees_Map_Attendees" FromRole="Attendees" ToRole="Meeting_Attendees_Map" />
+        </EntityType>
+        <EntityType Name="Meeting">
+          <Key>
+            <PropertyRef Name="MeetingId" />
+          </Key>
+          <Property Name="MeetingId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Subject" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Agenda" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="MDateTime" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Status" Type="Boolean" />
+          <Property Name="ModifiedBy" Type="Int32" />
+          <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+          <Property Name="CreatedBy" Type="Int32" />
+          <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Meeting_Attendees_Map" Relationship="Self.FK_Meeting_Attendees_Map_Meeting" FromRole="Meeting" ToRole="Meeting_Attendees_Map" />
+        </EntityType>
+        <EntityType Name="Meeting_Attendees_Map">
+          <Key>
+            <PropertyRef Name="MapId" />
+          </Key>
+          <Property Name="MapId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MeetingId" Type="Int32" />
+          <Property Name="AttendeeId" Type="Int32" />
+          <Property Name="Status" Type="Boolean" />
+          <NavigationProperty Name="Attendee" Relationship="Self.FK_Meeting_Attendees_Map_Attendees" FromRole="Meeting_Attendees_Map" ToRole="Attendees" />
+          <NavigationProperty Name="Meeting" Relationship="Self.FK_Meeting_Attendees_Map_Meeting" FromRole="Meeting_Attendees_Map" ToRole="Meeting" />
+        </EntityType>
+        <Association Name="FK_Meeting_Attendees_Map_Attendees">
+          <End Role="Attendees" Type="Self.Attendee" Multiplicity="0..1" />
+          <End Role="Meeting_Attendees_Map" Type="Self.Meeting_Attendees_Map" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Attendees">
+              <PropertyRef Name="AttendeeId" />
+            </Principal>
+            <Dependent Role="Meeting_Attendees_Map">
+              <PropertyRef Name="AttendeeId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Meeting_Attendees_Map_Meeting">
+          <End Role="Meeting" Type="Self.Meeting" Multiplicity="0..1" />
+          <End Role="Meeting_Attendees_Map" Type="Self.Meeting_Attendees_Map" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Meeting">
+              <PropertyRef Name="MeetingId" />
+            </Principal>
+            <Dependent Role="Meeting_Attendees_Map">
+              <PropertyRef Name="MeetingId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="MeetingManagementDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Attendees" EntityType="Self.Attendee" />
+          <EntitySet Name="Meetings" EntityType="Self.Meeting" />
+          <EntitySet Name="Meeting_Attendees_Map" EntityType="Self.Meeting_Attendees_Map" />
+          <AssociationSet Name="FK_Meeting_Attendees_Map_Attendees" Association="Self.FK_Meeting_Attendees_Map_Attendees">
+            <End Role="Attendees" EntitySet="Attendees" />
+            <End Role="Meeting_Attendees_Map" EntitySet="Meeting_Attendees_Map" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Meeting_Attendees_Map_Meeting" Association="Self.FK_Meeting_Attendees_Map_Meeting">
+            <End Role="Meeting" EntitySet="Meetings" />
+            <End Role="Meeting_Attendees_Map" EntitySet="Meeting_Attendees_Map" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MeetingManagementDBModelStoreContainer" CdmEntityContainer="MeetingManagementDBEntities">
+          <EntitySetMapping Name="Attendees">
+            <EntityTypeMapping TypeName="MeetingManagementDBModel.Attendee">
+              <MappingFragment StoreEntitySet="Attendees">
+                <ScalarProperty Name="AttendeeId" ColumnName="AttendeeId" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+                <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+                <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+                <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Meetings">
+            <EntityTypeMapping TypeName="MeetingManagementDBModel.Meeting">
+              <MappingFragment StoreEntitySet="Meeting">
+                <ScalarProperty Name="MeetingId" ColumnName="MeetingId" />
+                <ScalarProperty Name="Subject" ColumnName="Subject" />
+                <ScalarProperty Name="Agenda" ColumnName="Agenda" />
+                <ScalarProperty Name="MDateTime" ColumnName="MDateTime" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+                <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+                <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+                <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Meeting_Attendees_Map">
+            <EntityTypeMapping TypeName="MeetingManagementDBModel.Meeting_Attendees_Map">
+              <MappingFragment StoreEntitySet="Meeting_Attendees_Map">
+                <ScalarProperty Name="MapId" ColumnName="MapId" />
+                <ScalarProperty Name="MeetingId" ColumnName="MeetingId" />
+                <ScalarProperty Name="AttendeeId" ColumnName="AttendeeId" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
