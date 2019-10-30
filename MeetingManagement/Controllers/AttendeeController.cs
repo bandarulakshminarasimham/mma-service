@@ -10,6 +10,7 @@ using System.Web.Http;
 using System.Web.Http.Description;
 using MeetingManagement;
 using MeetingManagement.Services;
+using MeetingManagement.Models;
 
 
 namespace MeetingManagement.Controllers
@@ -19,9 +20,19 @@ namespace MeetingManagement.Controllers
         private readonly AttendeeService _attendeeService = new AttendeeService();
 
         // GET api/Attendee
-        public IEnumerable<Attendee> GetAttendees()
+        public IEnumerable<AttendeeModel> GetAttendees()
         {
-            return _attendeeService.GetAttendees();
+            IList<AttendeeModel> attendees = new List<AttendeeModel>();
+            _attendeeService.GetAttendees().ToList().All(t =>
+            {
+                attendees.Add(new AttendeeModel
+                {
+                    id = t.AttendeeId,
+                    name = t.Name
+                });
+                return true;
+            });
+            return attendees;
         }
 
         // GET api/Attendee/5

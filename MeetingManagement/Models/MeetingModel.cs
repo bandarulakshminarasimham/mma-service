@@ -16,6 +16,7 @@ namespace MeetingManagement.Models
         public string Agenda { get; set; }
         public DateTime MDateTime { get; set; }
         public IList<int> Attendees { get; set; }
+        public string AttendeeNames { get; set;  }
 
     }
 }

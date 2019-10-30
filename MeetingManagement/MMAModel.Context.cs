@@ -28,5 +28,6 @@ namespace MeetingManagement
         public DbSet<Attendee> Attendees { get; set; }
         public DbSet<Meeting> Meetings { get; set; }
         public DbSet<Meeting_Attendees_Map> Meeting_Attendees_Map { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

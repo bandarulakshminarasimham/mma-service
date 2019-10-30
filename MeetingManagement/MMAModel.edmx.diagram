@@ -5,11 +5,12 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="cc5f8b674be54ecf9af5863ce5b0609d" Name="Diagram1">
-        <EntityTypeShape EntityType="MeetingManagementDBModel.Attendee" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="MeetingManagementDBModel.Meeting" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="MeetingManagementDBModel.Meeting_Attendees_Map" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
-        <AssociationConnector Association="MeetingManagementDBModel.FK_Meeting_Attendees_Map_Attendees" ManuallyRouted="false" />
-        <AssociationConnector Association="MeetingManagementDBModel.FK_Meeting_Attendees_Map_Meeting" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="MeetingManagementDBModel.Attendee" Width="1.5" PointX="0.75" PointY="1.125" />
+        <EntityTypeShape EntityType="MeetingManagementDBModel.Meeting" Width="1.5" PointX="0.75" PointY="5" />
+        <EntityTypeShape EntityType="MeetingManagementDBModel.Meeting_Attendees_Map" Width="1.5" PointX="3" PointY="1" />
+        <EntityTypeShape EntityType="MeetingManagementDBModel.User" Width="1.5" PointX="2.75" PointY="4.75" />
+        <AssociationConnector Association="MeetingManagementDBModel.FK_Meeting_Attendees_Map_Attendees" />
+        <AssociationConnector Association="MeetingManagementDBModel.FK_Meeting_Attendees_Map_Meeting" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

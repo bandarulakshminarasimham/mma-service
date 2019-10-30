@@ -7,7 +7,7 @@ namespace MeetingManagement.Models
 {
     public class AttendeeModel
     {
-        public int AttendeeId { get; set; }
-        public string Name { get; set; }
+        public int id { get; set; }
+        public string name { get; set; }
     }
 }

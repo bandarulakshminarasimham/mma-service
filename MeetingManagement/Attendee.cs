@@ -22,9 +22,9 @@ namespace MeetingManagement
         public int AttendeeId { get; set; }
         public string Name { get; set; }
         public Nullable<bool> Status { get; set; }
-        public Nullable<int> ModifiedBy { get; set; }
+        public string ModifiedBy { get; set; }
         public Nullable<System.DateTime> ModifiedDate { get; set; }
-        public Nullable<int> CreatedBy { get; set; }
+        public string CreatedBy { get; set; }
         public Nullable<System.DateTime> CreatedDate { get; set; }
     
         public virtual ICollection<Meeting_Attendees_Map> Meeting_Attendees_Map { get; set; }

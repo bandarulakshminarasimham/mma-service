@@ -16,5 +16,6 @@ namespace MeetingManagement.Models
 
         public DbSet<Meeting> meetings { get; set; }
         public DbSet<Attendee> attendees { get; set; }
+        public DbSet<User> users { get; set; }
     }
 }

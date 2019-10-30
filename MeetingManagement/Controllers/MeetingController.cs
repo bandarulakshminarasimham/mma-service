@@ -10,20 +10,39 @@ using System.Web.Http;
 using System.Web.Http.Description;
 using MeetingManagement;
 using MeetingManagement.Services;
+using MeetingManagement.Models;
 
 namespace MeetingManagement.Controllers
 {
     public class MeetingController : ApiController
     {
-        private readonly MeetingService _meetingService = new MeetingService();
+        private readonly MeetingService _meetingService;
 
-        // GET api/Meeting
-        public IEnumerable<Meeting> GetMeetings()
+        public MeetingController()
         {
-            return _meetingService.GetMeetings();
+            this._meetingService = new MeetingService();
         }
 
-        // GET api/Meeting/5
+        // GET api/Meeting
+        public IHttpActionResult GetMeetings()
+        {
+            IList<MeetingModel> results = new List<MeetingModel>();
+            _meetingService.GetMeetings().ToList().All(m =>
+            {
+                results.Add(new MeetingModel
+                {
+                    MeetingId = m.MeetingId,
+                    Agenda = m.Agenda,
+                    AttendeeNames = string.Join(", ", m.Meeting_Attendees_Map.Select(tt => tt.Attendee.Name)),
+                    MDateTime = m.MDateTime,
+                    Subject = m.Subject
+                });
+                return true;
+            });
+            return Ok(results);
+        }
+
+        // GET api/meeting/5
         [ResponseType(typeof(Meeting))]
         public IHttpActionResult GetMeeting(int id)
         {
@@ -33,7 +52,16 @@ namespace MeetingManagement.Controllers
                 return NotFound();
             }
 
-            return Ok(meeting);
+            MeetingModel results = new MeetingModel
+                {
+                    MeetingId = meeting.MeetingId,
+                    Agenda = meeting.Agenda,
+                    AttendeeNames = string.Join(", ", meeting.Meeting_Attendees_Map.Select(tt => tt.Attendee.Name)),
+                    MDateTime = meeting.MDateTime,
+                    Subject = meeting.Subject
+                };
+
+            return Ok(results);
         }
 
         // PUT api/Meeting/5
@@ -55,14 +83,7 @@ namespace MeetingManagement.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                //if (!MeetingExists(id))
-                //{
-                //    return NotFound();
-                //}
-                //else
-                //{
-                //    throw;
-                //}
+                
             }
 
             return StatusCode(HttpStatusCode.NoContent);
@@ -81,8 +102,8 @@ namespace MeetingManagement.Controllers
             Meeting m = new Meeting();
             m.Subject = mm.Subject;
             m.Agenda = mm.Agenda;
-            m.MDateTime = mm.MDateTime;
-            
+            m.MDateTime = DateTime.Now; //mm.MDateTime ;
+
 
             mm.Attendees.All(t => 
             {
@@ -106,9 +127,5 @@ namespace MeetingManagement.Controllers
             return Ok(meeting);
         }
 
-        //private bool MeetingExists(int id)
-        //{
-        //    return db.Meetings.Count(e => e.MeetingId == id) > 0;
-        //}
     }
 }

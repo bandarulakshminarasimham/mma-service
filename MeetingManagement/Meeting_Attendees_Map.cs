@@ -18,6 +18,10 @@ namespace MeetingManagement
         public Nullable<int> MeetingId { get; set; }
         public Nullable<int> AttendeeId { get; set; }
         public Nullable<bool> Status { get; set; }
+        public string ModifiedBy { get; set; }
+        public Nullable<System.DateTime> ModifiedDate { get; set; }
+        public string CreatedBy { get; set; }
+        public Nullable<System.DateTime> CreatedDate { get; set; }
     
         public virtual Attendee Attendee { get; set; }
         public virtual Meeting Meeting { get; set; }
