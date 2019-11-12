@@ -1,0 +1,4687 @@
+2019-11-12 00:01:59.1924|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 00:02:33.6889|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 01:02:28.9383|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 01:03:35.4327|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 01:13:34.9029|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 01:15:26.0225|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 01:16:07.9027|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 01:16:25.9414|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 01:46:16.9674|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 02:03:57.9733|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 02:05:15.8264|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:05:41.9043|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:07:11.4552|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:07:35.9060|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:07:46.6049|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:07:51.4792|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:08:00.9525|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:08:33.6579|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:08:37.2799|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:08:40.7519|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:08:47.9117|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:08:50.0377|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:09:00.7203|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:09:04.6425|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:09:09.7535|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:09:16.6717|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:09:39.3681|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:09:53.3988|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:10:06.6814|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:10:11.5524|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:10:13.8484|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:10:16.7969|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:10:25.2867|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:10:33.7881|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:10:50.5932|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admi
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admi"}]}
+
+2019-11-12 02:11:06.3405|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:11:47.3585|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:12:05.9873|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:12:10.3936|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:12:14.6623|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:12:57.1452|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 02:13:15.9412|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=ad
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"ad"}]}
+
+2019-11-12 02:14:01.3407|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 02:14:02.8017|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:14:07.8687|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:14:49.2802|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:14:52.7866|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:15:23.1561|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 02:15:41.6602|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=ad
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"ad"}]}
+
+2019-11-12 02:16:41.3826|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 02:17:49.8066|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 02:17:50.5115|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:17:55.1710|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:18:03.4343|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:19:03.9319|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:20:20.5922|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:21:20.1060|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:21:23.2950|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:21:47.1166|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:22:00.4089|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:22:29.8967|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:22:37.4726|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:23:38.2201|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:23:45.4100|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:24:16.5636|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:34:21.4946|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendees
+No HTTP resource was found that matches the request URI 'http://localhost:57421/api/attendees'.
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["eb3c55a2-1ce6-4c50-b478-f012c7f2d635"]}]]}
+
+2019-11-12 02:36:48.9519|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:39:57.9691|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:46:49.2680|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/user?username=admin&password=admin
+Controller : MeetingService.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"username":"admin","password":"admin"}]}
+
+2019-11-12 02:46:51.2410|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:56:07.4120|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:56:37.2685|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:57:12.7086|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 02:59:23.0743|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:05:40.7649|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:05:41.3199|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+An error has occurred.Object reference not set to an instance of an object.   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__1(Meeting_Attendees_Map a) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__0(Attendee t) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.All[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MeetingService.Controllers.AttendeeController.<Get>d__5.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 37
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic YWRtaW46YWRtaW4="]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["b6cb15a3-72f7-44db-ab75-5dc3326c73bb"]}]]}
+
+2019-11-12 03:06:05.9234|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:08:57.9370|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:08:58.2640|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+An error has occurred.Object reference not set to an instance of an object.   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__1(Meeting_Attendees_Map a) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__0(Attendee t) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.All[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MeetingService.Controllers.AttendeeController.<Get>d__5.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 37
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic YWRtaW46YWRtaW4="]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["346903f7-254f-4baf-a291-be925fa9d6ee"]}]]}
+
+2019-11-12 03:09:09.2373|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:10:00.1543|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+An error has occurred.Object reference not set to an instance of an object.   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__1(Meeting_Attendees_Map a) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__0(Attendee t) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.All[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MeetingService.Controllers.AttendeeController.<Get>d__5.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 37
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic YWRtaW46YWRtaW4="]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["cf7cc77d-022f-477d-9a58-e078e2f19af4"]}]]}
+
+2019-11-12 03:10:03.1874|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:11:03.5954|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:13:14.2290|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:13:24.5681|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+An error has occurred.Object reference not set to an instance of an object.   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__1(Meeting_Attendees_Map a) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__0(Attendee t) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.All[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MeetingService.Controllers.AttendeeController.<Get>d__5.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 37
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic YWRtaW46YWRtaW4="]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["d1bbcace-ce63-43c8-bdb5-2fa7106e10fd"]}]]}
+
+2019-11-12 03:14:01.5085|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:15:47.0025|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:20:32.8407|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:20:51.1018|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+An error has occurred.Object reference not set to an instance of an object.   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__1(Meeting_Attendees_Map a) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.String.Join(String separator, IEnumerable`1 values)
+   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__0(Attendee t) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.All[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MeetingService.Controllers.AttendeeController.<Get>d__5.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 37
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic YWRtaW46YWRtaW4="]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["68a892d7-b040-44fc-ab15-8d7cbb73c149"]}]]}
+
+2019-11-12 03:20:53.6529|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:21:00.5109|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+An error has occurred.Object reference not set to an instance of an object.   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__1(Meeting_Attendees_Map a) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.String.Join(String separator, IEnumerable`1 values)
+   at MeetingService.Controllers.AttendeeController.<>c__DisplayClass2.<Get>b__0(Attendee t) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 40
+   at System.Linq.Enumerable.All[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MeetingService.Controllers.AttendeeController.<Get>d__5.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\AttendeeController.cs:line 37
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic YWRtaW46YWRtaW4="]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["0caad117-9322-44fe-a98c-a84c47c00dec"]}]]}
+
+2019-11-12 03:21:04.2503|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:25:47.9997|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:29:35.2488|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:30:46.9555|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:31:27.1441|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:31:34.7703|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:31:41.4858|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:31:44.9088|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:31:48.4318|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:31:59.7960|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:33:59.2541|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:34:09.7399|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:37:34.7957|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:37:39.0087|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:37:44.2477|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:37:49.1707|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:37:54.6712|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:00.9967|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:07.9730|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:09.7855|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:20.4070|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:23.7812|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:25.1686|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:26.2816|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:33.1607|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:38.5712|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:42.6312|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:51.9075|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:38:57.2335|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:39:03.9865|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:39:07.5065|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:39:14.3549|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:41:27.4681|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:42:21.3725|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:42:31.5586|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:42:44.0976|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:44:23.3478|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:45:22.4938|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:45:36.1744|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:45:43.6435|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:46:02.2960|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:46:07.3785|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:47:02.4437|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:47:09.6112|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:47:14.9012|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:47:18.6322|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:47:26.7212|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:47:29.8492|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:47:53.9933|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:48:01.3634|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:48:10.8526|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:48:18.5032|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:48:21.3442|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:48:27.7866|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:48:54.9544|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:49:03.4641|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:49:28.8706|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:49:37.2813|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:50:03.9109|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:50:23.9786|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:50:28.8168|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:50:31.1295|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:50:55.9956|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:51:00.4670|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:51:34.9423|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:51:40.0292|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:51:44.9580|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:51:59.6708|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:52:08.0678|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:52:15.8889|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:52:20.9889|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:52:36.7662|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:52:45.1983|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:52:48.7123|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:52:53.7093|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:52:57.2943|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:53:10.7213|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:53:16.6543|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:54:11.7618|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:54:14.2839|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:54:20.8356|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:54:34.1760|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:54:51.2715|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:55:33.5386|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:58:03.3293|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:59:09.9234|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:59:37.5837|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:59:39.9997|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 03:59:57.1366|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:02:17.2003|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:02:20.5473|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:02:23.6433|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:02:25.9243|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:02:44.0727|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:02:48.3035|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:02:52.7884|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:02:56.6514|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:03:02.7198|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:04:25.3888|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:05:02.2186|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:05:09.7858|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:05:20.3336|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:05:27.9356|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:05:31.8806|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:05:35.5266|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:05:39.4862|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:05:43.9242|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:05:50.2086|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:05:56.6028|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:06:26.6367|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:06:30.3742|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:06:35.9991|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:07:25.3912|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:07:38.1535|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:07:43.3195|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:08:02.0850|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:08:53.6854|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:08:57.9594|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:09:00.7464|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:09:03.1134|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:10:02.5405|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:10:51.1300|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:11:00.7041|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:11:07.7221|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:11:16.4209|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:11:48.5822|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:12:01.6821|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:12:13.3857|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:12:35.9097|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:12:40.0897|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:12:49.9565|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:12:58.3608|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:13:02.4058|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:13:37.1054|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:13:45.0280|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:13:49.4645|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:13:53.9935|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:16:02.9248|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:16:09.7338|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:16:13.0698|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:17:10.6866|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:17:15.8286|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:32:12.6473|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:32:17.1843|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:51:44.7629|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:51:49.0974|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:51:54.0920|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:51:55.0223|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:51:56.7728|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:51:57.9991|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:52:09.3730|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:55:06.3403|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:55:06.6073|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:55:06.7293|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:55:14.6058|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:55:15.4768|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:55:15.5308|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:59:26.4129|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:59:26.9089|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:59:26.9349|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:59:30.6912|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:59:31.5572|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:59:31.7672|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:59:44.5015|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:59:45.8505|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 04:59:45.9005|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:00:42.6391|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:00:43.0331|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:00:43.2741|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:00:49.8442|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:00:51.0912|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:00:51.4342|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:00:57.2242|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:00:58.5512|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:00:58.7572|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:14.3457|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:16.5777|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:17.0187|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:20.7937|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:22.0867|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:22.1107|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:26.4687|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:28.2187|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:28.2757|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:35.4057|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:36.2427|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:01:36.3217|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:02:13.2621|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:02:13.7121|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:02:13.7681|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:02:20.4023|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:02:21.6243|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:02:21.7103|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:03:26.7155|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:03:27.1645|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:03:27.2365|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:03:40.5945|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:03:41.5475|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:03:41.5875|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:03:55.6596|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:03:56.8076|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:03:56.9326|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:04:04.7030|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:04:06.9360|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:04:06.9800|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:04:11.0570|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:04:13.2830|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:04:13.4790|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:04:17.3435|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:04:18.1385|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:04:27.8065|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:04:38.5855|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"AttendeeId":0,"Name":"AmruthaValli Bandaru","Status":null,"AttendedMeetingsSubjects":null,"AttendedMeetings":0,"Meeting_Attendees_Map":[],"ModifiedBy":null,"ModifiedDate":null,"CreatedBy":null,"CreatedDate":null}}]}
+
+2019-11-12 05:05:01.3089|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:06:05.4715|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:06:05.8255|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:06:06.2865|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:06:21.4616|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:06:22.2306|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:06:22.5836|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:06:39.8924|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"AttendeeId":0,"Name":"JwalaSeshanth Bandaru","Status":null,"AttendedMeetingsSubjects":null,"AttendedMeetings":0,"Meeting_Attendees_Map":[],"ModifiedBy":null,"ModifiedDate":null,"CreatedBy":null,"CreatedDate":null}}]}
+
+2019-11-12 05:06:42.3185|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:08:13.6807|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:08:14.0017|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:08:16.6187|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:09:24.6652|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:09:30.3491|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:10:56.3964|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:10:56.8424|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:10:57.1904|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:12:25.3664|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:12:25.6874|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:12:27.8764|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:12:31.7674|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:12:34.2804|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:12:44.0873|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:12:54.4264|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:13:19.5265|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:13:36.1877|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:15:18.3773|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:15:18.4823|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:15.5991|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:16.1721|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:18.5451|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:18.5771|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:23.2794|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:23.3584|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:25.9957|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:26.0617|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:29.6776|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:29.7326|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:33.3747|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:33.8067|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:50.2450|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:50.8240|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:54.4764|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:16:54.5394|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:17:03.6800|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:17:19.2979|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:17:20.1429|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:17:23.8089|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:17:24.0089|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:17:27.6639|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:17:27.7099|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:17:35.8887|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:17:35.9227|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:17:45.8692|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:17:46.1812|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:19.1180|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:19.4470|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:23.7615|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:23.7615|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:26.3225|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:26.3925|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:31.4594|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:31.4924|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:34.3944|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:34.4374|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:37.4438|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:37.5078|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:39.7928|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:39.8418|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:45.3452|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:18:45.4672|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:03.9824|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:04.6064|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:08.7462|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:08.7462|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:13.2532|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:13.2532|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:18.7652|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:18.8042|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:30.6179|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:30.6489|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:34.3749|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:34.5429|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:19:36.2309|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:20:03.5759|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:20:04.1309|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:20:07.2529|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:21:02.1310|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:21:02.3110|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:21:02.6630|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:21:06.8331|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:21:06.8961|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:21:09.7883|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:21:21.7806|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:21:54.0179|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:21:54.0839|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:21:57.8253|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:21:57.9113|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:11.5473|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:12.8863|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:18.7307|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:18.7627|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:21.5087|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:21.5087|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:28.6519|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:28.8029|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:31.1119|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:31.1659|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:40.7864|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:56.6344|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:58.4544|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:22:58.8864|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:02.5884|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:02.7824|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:07.7068|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:07.7948|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:10.8168|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:25.1036|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:25.8796|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:28.0636|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:28.1276|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:44.1872|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:44.1872|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:55.0336|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:56.0446|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:58.7686|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:23:58.8336|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:24:02.1916|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:24:02.3526|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:24:09.9934|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:24:10.0658|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:24:12.7165|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:05.1676|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:05.3556|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:05.6946|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:15.7879|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:16.0179|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:18.7359|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:18.9829|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:25.3931|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:25.4791|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:31.1738|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:31.3188|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:39.6808|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:39.8228|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:25:46.3960|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:26:24.1516|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:26:24.2216|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:26:24.5216|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:26:30.3799|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:26:30.5789|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:26:33.9065|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:26:33.9065|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:26:44.5821|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:26:44.7071|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:12.1807|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:13.0287|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:13.6097|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:18.5854|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:18.6594|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:22.4755|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:22.4985|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:26.6425|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:26.7535|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:29.3605|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:29.4055|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:32.0591|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:32.0591|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:34.1491|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:38.2501|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:38.2581|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:42.3121|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:27:42.3771|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:28:03.8684|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:28:04.3694|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:28:07.0166|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:28:07.0686|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:28:11.5652|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:28:11.5992|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:28:13.2322|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:29:16.5668|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:29:16.6158|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:29:21.0778|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:29:21.0898|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:29:30.5999|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:29:30.7049|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:29:35.4890|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:29:35.5059|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:29:39.7919|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:29:39.8919|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:29:45.1386|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:30:30.1690|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:30:30.2480|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:30:30.7480|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:30:32.6100|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:30:48.1048|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:30:48.2688|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:30:53.5481|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:30:53.5581|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:30:56.2361|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:31:33.1860|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:31:33.4080|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:31:33.7860|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:31:56.8850|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:31:57.7600|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:31:59.8030|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:31:59.9850|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:32:29.2344|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:04.4314|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:04.6314|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:05.0964|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:07.0704|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:07.0994|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:13.7951|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:13.8791|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:17.1191|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:17.1351|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:20.1901|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:20.2461|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:28.3722|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:28.4832|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:49.3674|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:50.2014|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:54.2788|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:54.4068|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:59.1957|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:33:59.2238|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:34:10.7109|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:34:10.8859|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:34:12.8339|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:35:55.3857|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:35:55.4467|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:35:55.9007|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:02.0715|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:27.5343|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:27.5983|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:27.9343|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:32.0532|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:51.0081|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:51.6131|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:51.9401|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:54.5633|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:55.1303|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:59.5594|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:36:59.5824|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:37:03.2956|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:37:03.2956|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:37:14.9612|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:37:15.1322|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:37:17.9605|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:37:17.9815|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:37:35.6391|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:37:35.7071|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:37:39.0141|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:38:26.3981|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:38:26.4731|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:38:27.8511|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:38:34.3070|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:38:34.4030|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:38:44.4229|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:41:02.2663|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:41:02.3383|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:41:02.9383|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:41:04.3253|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:42:05.9330|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:42:06.0080|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:42:06.4980|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:43:36.6181|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:43:36.7230|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:44:37.0800|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:44:37.1920|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:45:06.3333|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:45:06.4333|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:45:24.1420|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/attendee
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.AttendeeController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-12 05:47:13.0081|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"GITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD","Agenda":"test","MDateTime":"\/Date(1575138300000)\/","Status":null,"Attendees":[6],"AttendeeNames":null,"Meeting_Attendees_Map":[]}}]}
+
+2019-11-12 05:51:12.3270|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"GITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD","Agenda":"test","MDateTime":"\/Date(1575138300000)\/","Status":null,"Attendees":[6],"AttendeeNames":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-12 05:52:51.0490|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"GITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD","Agenda":"test","MDateTime":"\/Date(1575138300000)\/","Status":null,"Attendees":[6],"AttendeeNames":null,"Meeting_Attendees_Map":[]}}]}
+
+2019-11-12 05:53:11.4097|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+An error has occurred.Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.   at System.Data.Entity.Internal.InternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.DbContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at System.Data.Entity.DbContext.SaveChangesAsync()
+   at MeetingService.Data.MMARepository.<SaveChangesAsync>d__0.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Data\MMARepository.cs:line 22
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at MeetingService.Controllers.MeetingController.<Post>d__13.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\MeetingController.cs:line 83
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic YWRtaW46YWRtaW4="]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["349026a8-798b-466f-8abb-cbd88b51f2ab"]}]]}
+
+2019-11-12 05:54:06.4754|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"GITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD","Agenda":"test","MDateTime":"\/Date(1575138300000)\/","Status":null,"Attendees":[6],"AttendeeNames":null,"Meeting_Attendees_Map":[]}}]}
+
+2019-11-12 05:59:04.2350|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"GITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD","Agenda":"test","MDateTime":"\/Date(1575138300000)\/","Status":null,"Attendees":[6],"AttendeeNames":null,"Meeting_Attendees_Map":[]}}]}
+
+2019-11-12 06:01:03.6585|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic YWRtaW46YWRtaW4=
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"GITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB ACCESSADFASDFASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDGITHUB","Agenda":"test","MDateTime":"\/Date(1575138300000)\/","Status":null,"Attendees":[6],"AttendeeNames":null,"Meeting_Attendees_Map":[]}}]}
+

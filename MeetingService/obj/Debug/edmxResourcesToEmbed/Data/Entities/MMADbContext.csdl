@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MeetingManagementModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Attendee">
+    <Key>
+      <PropertyRef Name="AttendeeId" />
+    </Key>
+    <Property Name="AttendeeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Status" Type="Boolean" />
+    <Property Name="ModifiedBy" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="CreatedBy" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Meeting_Attendees_Map" Relationship="Self.FK_Meeting_Attendees_Map_Attendees" FromRole="Attendees" ToRole="Meeting_Attendees_Map" />
+  </EntityType>
+  <EntityType Name="Meeting">
+    <Key>
+      <PropertyRef Name="MeetingId" />
+    </Key>
+    <Property Name="MeetingId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Subject" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Agenda" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Status" Type="Boolean" />
+    <Property Name="ModifiedBy" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="CreatedBy" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Meeting_Attendees_Map" Relationship="Self.FK_Meeting_Attendees_Map_Meeting" FromRole="Meeting" ToRole="Meeting_Attendees_Map" />
+  </EntityType>
+  <EntityType Name="Meeting_Attendees_Map">
+    <Key>
+      <PropertyRef Name="MapId" />
+    </Key>
+    <Property Name="MapId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MeetingId" Type="Int32" />
+    <Property Name="AttendeeId" Type="Int32" />
+    <Property Name="Status" Type="Boolean" />
+    <Property Name="ModifiedBy" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <Property Name="CreatedBy" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Attendee" Relationship="Self.FK_Meeting_Attendees_Map_Attendees" FromRole="Meeting_Attendees_Map" ToRole="Attendees" />
+    <NavigationProperty Name="Meeting" Relationship="Self.FK_Meeting_Attendees_Map_Meeting" FromRole="Meeting_Attendees_Map" ToRole="Meeting" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="Boolean" />
+    <Property Name="CreatedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <Association Name="FK_Meeting_Attendees_Map_Attendees">
+    <End Role="Attendees" Type="Self.Attendee" Multiplicity="0..1" />
+    <End Role="Meeting_Attendees_Map" Type="Self.Meeting_Attendees_Map" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Attendees">
+        <PropertyRef Name="AttendeeId" />
+      </Principal>
+      <Dependent Role="Meeting_Attendees_Map">
+        <PropertyRef Name="AttendeeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Meeting_Attendees_Map_Meeting">
+    <End Role="Meeting" Type="Self.Meeting" Multiplicity="0..1" />
+    <End Role="Meeting_Attendees_Map" Type="Self.Meeting_Attendees_Map" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Meeting">
+        <PropertyRef Name="MeetingId" />
+      </Principal>
+      <Dependent Role="Meeting_Attendees_Map">
+        <PropertyRef Name="MeetingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MeetingManagementEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Attendees" EntityType="Self.Attendee" />
+    <EntitySet Name="Meetings" EntityType="Self.Meeting" />
+    <EntitySet Name="Meeting_Attendees_Map" EntityType="Self.Meeting_Attendees_Map" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_Meeting_Attendees_Map_Attendees" Association="Self.FK_Meeting_Attendees_Map_Attendees">
+      <End Role="Attendees" EntitySet="Attendees" />
+      <End Role="Meeting_Attendees_Map" EntitySet="Meeting_Attendees_Map" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Meeting_Attendees_Map_Meeting" Association="Self.FK_Meeting_Attendees_Map_Meeting">
+      <End Role="Meeting" EntitySet="Meetings" />
+      <End Role="Meeting_Attendees_Map" EntitySet="Meeting_Attendees_Map" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

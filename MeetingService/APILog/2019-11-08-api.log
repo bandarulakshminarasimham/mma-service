@@ -1,0 +1,16 @@
+2019-11-08 01:26:24.5302|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/mmv2/api/healthcheck
+Basic bGFrc2htaTpsYWtzaG1p
+Controller : MeetingService.Controllers.HealthCheckController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-08 01:27:54.7891|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/mmv2/api/healthcheck
+Basic bGFrc2htaTpsYWtzaG1p
+Controller : MeetingService.Controllers.HealthCheckController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

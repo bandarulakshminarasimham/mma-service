@@ -1,0 +1,124 @@
+2019-11-11 16:25:42.7837|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(1573469742437)\/","Status":null,"Attendees":[1,2],"Meeting_Attendees_Map":null}}]}
+
+2019-11-11 16:25:43.2877|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+An error has occurred.Object reference not set to an instance of an object.   at MeetingService.Controllers.MeetingController.<>c__DisplayClassd.<Post>b__b(Int32 t) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\MeetingController.cs:line 73
+   at System.Linq.Enumerable.All[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MeetingService.Controllers.MeetingController.<Post>d__f.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\MeetingController.cs:line 71
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic bGFrc2htaTpiYW5kYXJ1"]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["7ff69312-99fb-4808-b504-967cc28c40ee"]}]]}
+
+2019-11-11 16:28:33.5056|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(1573469913286)\/","Status":null,"Attendees":[1,2],"Meeting_Attendees_Map":null}}]}
+
+2019-11-11 16:28:33.7050|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+An error has occurred.Object reference not set to an instance of an object.   at MeetingService.Controllers.MeetingController.<>c__DisplayClassd.<Post>b__b(Int32 t) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\MeetingController.cs:line 73
+   at System.Linq.Enumerable.All[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MeetingService.Controllers.MeetingController.<Post>d__f.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\MeetingController.cs:line 71
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic bGFrc2htaTpiYW5kYXJ1"]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["3234454e-3b5c-4ef6-9ce6-00fbaaff8906"]}]]}
+
+2019-11-11 16:29:16.6706|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(1573469956670)\/","Status":null,"Attendees":[1,2],"Meeting_Attendees_Map":null}}]}
+
+2019-11-11 16:29:16.7337|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+An error has occurred.Object reference not set to an instance of an object.   at MeetingService.Controllers.MeetingController.<>c__DisplayClassd.<Post>b__b(Int32 t) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\MeetingController.cs:line 73
+   at System.Linq.Enumerable.All[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MeetingService.Controllers.MeetingController.<Post>d__f.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\MeetingController.cs:line 71
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic bGFrc2htaTpiYW5kYXJ1"]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["96cf32d5-09fd-4b12-b630-81287073eece"]}]]}
+
+2019-11-11 16:30:54.5729|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(1573470054404)\/","Status":null,"Attendees":[1,2],"Meeting_Attendees_Map":null}}]}
+
+2019-11-11 16:30:54.7129|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+An error has occurred.Object reference not set to an instance of an object.   at MeetingService.Controllers.MeetingController.<>c__DisplayClassd.<Post>b__b(Int32 t) in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\MeetingController.cs:line 73
+   at System.Linq.Enumerable.All[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MeetingService.Controllers.MeetingController.<Post>d__f.MoveNext() in d:\meeting-app\meeting-service-v3\MeetingService\MeetingService\Controllers\MeetingController.cs:line 71
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic bGFrc2htaTpiYW5kYXJ1"]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["ea2853da-4f0a-42c6-9dd7-afc5ccc55b94"]}]]}
+
+2019-11-11 16:31:45.6299|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting?=
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-11 16:47:54.5668|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting?=
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-11 16:56:51.0922|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting?=
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-11 16:58:33.0633|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting?=
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-11 17:49:46.2111|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting?=
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-11 17:50:00.2598|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting?=
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-11-11 17:51:04.5248|INFO|MeetingService.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:57421/api/meeting?=
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
